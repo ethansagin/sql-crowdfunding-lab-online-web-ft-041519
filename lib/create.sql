@@ -1,1 +1,1 @@
-CREATE TABLE(title, )
+CREATE TABLE(title TEXT, category TEXT, funding_goal )
